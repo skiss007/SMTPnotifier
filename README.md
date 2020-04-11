@@ -1,6 +1,8 @@
 # SMTPnotifier
 Interface between IP camera email alert and Shinobi CCTV system
 
+Configure It by example below, to run it: python3 SMTPnotifier.py
+
 Hello and welcome!
 
 Since every camera have now a motion detection, why use CPU for that?
