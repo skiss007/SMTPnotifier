@@ -35,6 +35,7 @@ And this is all for the main config, remember to put the data inside "" and end 
 monitors.csv
 -------------------------------------------------------------------
 ip,id,plug,name
+
 192.168.1.11,C452Xsdfjk3,test,test
 -------------------------------------------------------------------
 This is a CSV file to list all cameras that you want to report for.
