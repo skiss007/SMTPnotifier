@@ -3,9 +3,12 @@ import csv
 import requests
 import config as cfg
 import time
+import os
 from datetime import datetime
 
 monitors = []
+
+os.chdir(os.path.realpath(os.path.dirname(__file__)))
 
 SMTPhelo = "220"
 SMTPok = "250"
